@@ -1,3 +1,3 @@
-# asql
-
-Teste de alteração do read-me.
+=======
+# Curso de SQL da ASN.Rocks
+>>>>>>> origin/dia_02
